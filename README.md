@@ -14,17 +14,11 @@ Let's connect and explore!
 
 - ### ✨ Highlights:
   
-  - **Project 1:**
+  - **Project 1:** more about this. | [click here]()
 
-    more about this. | [click here]()
+  - **Project 2:** more about this. | [click here]()
 
-  - **Project 2:**
-
-    more about this. | [click here]()
-
-  - **Project 3:**
-
-    more about this. | [click here]()
+  - **Project 3:** more about this. | [click here]()
 
 ##
 
