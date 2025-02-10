@@ -12,7 +12,23 @@ Let's connect and explore!
 
 ##
 
-- ### About Me:
+- ### ✨ Highlights:
+  
+  - **Project 1:**
+
+    more about this. | [click here]()
+
+  - **Project 2:**
+
+    more about this. | [click here]()
+
+  - **Project 3:**
+
+    more about this. | [click here]()
+
+##
+
+- ### 🌟 About Me:
 
   - #### 🪐 Looking Back:
     After earning a Master's in International Business in 2017, I pivoted to the data and IT fields, driven by my curiosity and growing love for all things data.
@@ -86,7 +102,6 @@ Let's connect and explore!
         <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="Gitlab CI" />
       </p>
     </details>
-
 
 <!--
 **caidam/caidam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
