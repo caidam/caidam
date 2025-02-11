@@ -14,11 +14,11 @@ Let's connect and explore!
 
 - ### ✨ Highlights:
   
-  - **Project 1:** more about this. | [click here]()
+  - **Music Video Tracker:** more about this. | [click here]()
 
-  - **Project 2:** more about this. | [click here]()
+  - **Morning News Project:** more about this. | [click here]()
 
-  - **Project 3:** more about this. | [click here]()
+  - **Kafka on The Shore:** more about this. | [click here]()
 
     <details>
         <summary>more projects.</summary>
@@ -39,7 +39,7 @@ Let's connect and explore!
   
   - #### 👽 Looking Inward:
 
-    Some of the tools I've worked with:
+    Some of the tools and techs I frequently work with:
 
     ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
     ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=flat)
