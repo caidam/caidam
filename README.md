@@ -18,13 +18,13 @@ Let's connect and explore!
 
   - **Morning News Project:** more about this. | [click here]()
 
-  - **Kafka on The Shore:** more about this. | [click here]()
+  - **Kafka on The Shore:** more about this. | [Project Repo](https://github.com/caidam/kafka-on-the-shore)
 
     <details>
         <summary>more projects.</summary>
         <ul>
           <li><a href="">Inside ABNB</a></li>
-          <li><a href="https://github.com/caidam/starburst-dbt-datalakehouse">ETLT Datalakhouse</a></li>
+          <li><a href="https://github.com/caidam/starburst-dbt-datalakehouse">ETLT Datalakehouse</a></li>
           <li><a href="https://github.com/caidam/stockdata-etl-chartbrew">Stock Data ETL Dashboard</a></li>
         </ul>
 
