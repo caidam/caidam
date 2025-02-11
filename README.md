@@ -22,7 +22,12 @@ Let's connect and explore!
 
     <details>
         <summary>more projects.</summary>
-        <h5>Data Analytics</h5>
+        <ul>
+          <li><a href="">Inside ABNB</a></li>
+          <li><a href="https://github.com/caidam/starburst-dbt-datalakehouse">ETLT Datalakhouse</a></li>
+          <li><a href="https://github.com/caidam/stockdata-etl-chartbrew">Stock Data ETL Dashboard</a></li>
+        </ul>
+
     </details>
   
 ##
