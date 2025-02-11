@@ -16,7 +16,7 @@ Let's connect and explore!
   
   - **Music Video Tracker:** A multi tier, data (and music) oriented web application. | [Project Repo](https://github.com/caidam/music-video-tracker) ~ [Web App](https://caidam.github.io/project-project-front) |
 
-  - **Morning News Project:** more about this. | [Project Repo]() |
+  - **Morning News Project:** A 2 weeks group project that I led in the context of my Cloud & DevOps Engineering degree. | [Project Repo]() |
 
   - **Kafka on The Shore:** A real time data analytics project inspired by my favorite novel. | [Project Repo](https://github.com/caidam/kafka-on-the-shore) |
 
