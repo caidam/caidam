@@ -20,10 +20,10 @@ Let's connect and explore!
 
   - **Project 3:** more about this. | [click here]()
 
-  <details>
-      <summary>more projects.</summary>
-      <h5>Data Analytics</h5>
-  </details>
+    <details>
+        <summary>more projects.</summary>
+        <h5>Data Analytics</h5>
+    </details>
   
 ##
 
