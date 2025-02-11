@@ -20,6 +20,11 @@ Let's connect and explore!
 
   - **Project 3:** more about this. | [click here]()
 
+  <details>
+      <summary>more projects.</summary>
+      <h5>Data Analytics</h5>
+  </details>
+  
 ##
 
 - ### 🌟 About Me:
@@ -43,7 +48,7 @@ Let's connect and explore!
     ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
     
     <details>
-      <summary>more tools:</summary>
+      <summary>more tools.</summary>
       <h5>Data Analytics</h5>
       <p>
         <img src="https://img.shields.io/badge/SQL-%23316192.svg?style=flat" alt="SQL" />
