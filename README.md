@@ -14,7 +14,7 @@ Let's connect and explore!
 
 - ### ✨ Highlights:
   
-  - **Music Video Tracker:** A multi tier, data oriented web application. | [Project Repo](https://github.com/caidam/music-video-tracker) | [Web App](https://caidam.github.io/project-project-front)
+  - **Music Video Tracker:** A multi tier, data oriented web application. | [Project Repo](https://github.com/caidam/music-video-tracker) ~ [Web App](https://caidam.github.io/project-project-front) |
 
   - **Morning News Project:** more about this. | [click here]()
 
