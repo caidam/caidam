@@ -34,7 +34,7 @@ Let's connect and explore!
   
   - #### 👽 Looking Inward:
 
-    .
+    Some of the tools I've worked with:
 
     ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
     ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=flat)
@@ -43,7 +43,7 @@ Let's connect and explore!
     ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
     
     <details>
-      <summary>more skills:</summary>
+      <summary>more tools:</summary>
       <h5>Data Analytics</h5>
       <p>
         <img src="https://img.shields.io/badge/SQL-%23316192.svg?style=flat" alt="SQL" />
