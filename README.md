@@ -18,7 +18,7 @@ Let's connect and explore!
 
   - **Morning News Project:** more about this. | [Project Repo]() |
 
-  - **Kafka on The Shore:** more about this. | [Project Repo](https://github.com/caidam/kafka-on-the-shore) |
+  - **Kafka on The Shore:** A real time data analytics project inspired by my favorite novel. | [Project Repo](https://github.com/caidam/kafka-on-the-shore) |
 
     <details>
         <summary>more projects.</summary>
