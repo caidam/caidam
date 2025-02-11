@@ -16,9 +16,9 @@ Let's connect and explore!
   
   - **Music Video Tracker:** A multi tier, data (and music) oriented web application. | [Project Repo](https://github.com/caidam/music-video-tracker) ~ [Web App](https://caidam.github.io/project-project-front) |
 
-  - **Morning News Project:** more about this. | [click here]()
+  - **Morning News Project:** more about this. | [Project Repo]() |
 
-  - **Kafka on The Shore:** more about this. | [Project Repo](https://github.com/caidam/kafka-on-the-shore)
+  - **Kafka on The Shore:** more about this. | [Project Repo](https://github.com/caidam/kafka-on-the-shore) |
 
     <details>
         <summary>more projects.</summary>
