@@ -23,7 +23,7 @@ Let's connect and explore!
     <details>
         <summary>more projects.</summary>
         <ul>
-          <li><a href="https://github.com/caidam/inside-abnb">Inside ABNB</a></li>
+          <li><a href="https://github.com/caidam/inside-abnb" target="_blank">Inside ABNB</a></li>
           <li><a href="https://github.com/caidam/starburst-dbt-datalakehouse">ETLT Datalakehouse</a></li>
           <li><a href="https://github.com/caidam/stockdata-etl-chartbrew">Stock Data ETL Dashboard</a></li>
         </ul>
