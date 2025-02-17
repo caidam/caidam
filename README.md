@@ -7,7 +7,7 @@ Let's connect and explore!
 ##
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBzdm13YXF6Z3dpeDF3czFhcTBrZGVnMzN6YXBjeXF1am0wanZ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" alt="I also like touch typing">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBzdm13YXF6Z3dpeDF3czFhcTBrZGVnMzN6YXBjeXF1am0wanZ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" alt="yes">
 </p>
 
 ##
