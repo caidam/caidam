@@ -18,7 +18,7 @@ Let's connect and explore!
 
   - **Morning News Project:** A 2 weeks group project that I led in the context of my Cloud & DevOps Engineering degree. | [Project Repo](https://github.com/caidam/morning-news-project) |
 
-  - **Kafka on The Shore:** A real time data analytics project inspired by my one of my favorite novels. | [Project Repo](https://github.com/caidam/kafka-on-the-shore) |
+  - **Kafka on The Shore:** A real time data analytics project inspired by one of my favorite novels. | [Project Repo](https://github.com/caidam/kafka-on-the-shore) |
 
     <details>
         <summary>more projects.</summary>
