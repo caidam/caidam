@@ -14,7 +14,7 @@ Let's connect and explore!
 
 - ### ✨ Highlights:
   
-  - **Music Video Tracker:** A multi tier, data (and music) oriented web application. | [Project Repo](https://github.com/caidam/music-video-tracker){:target="_blank"} ~ [Web App](https://caidam.github.io/project-project-front){:target="_blank"} |
+  - **Music Video Tracker:** A multi tier, data (and music) oriented web application. | [Project Repo](https://github.com/caidam/music-video-tracker) ~ [Web App](https://caidam.github.io/project-project-front) |
 
   - **Morning News Project:** A 2 weeks group project that I led in the context of my Cloud & DevOps Engineering degree. | [Project Repo](https://github.com/caidam/morning-news-project) |
 
@@ -24,8 +24,8 @@ Let's connect and explore!
         <summary>more projects.</summary>
         <ul>
           <li><a href="https://github.com/caidam/inside-abnb" target="_blank">Inside ABNB</a></li>
-          <li><a href="https://github.com/caidam/starburst-dbt-datalakehouse">ETLT Datalakehouse</a></li>
-          <li><a href="https://github.com/caidam/stockdata-etl-chartbrew">Stock Data ETL Dashboard</a></li>
+          <li><a href="https://github.com/caidam/starburst-dbt-datalakehouse" target="_blank">ETLT Datalakehouse</a></li>
+          <li><a href="https://github.com/caidam/stockdata-etl-chartbrew" target="_blank">Stock Data ETL Dashboard</a></li>
         </ul>
 
     </details>
